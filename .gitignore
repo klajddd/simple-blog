@@ -1,0 +1,7 @@
+# .gitignore
+.env
+config.json
+secrets.py
+*.pem
+__pycache__/
+.vercel
